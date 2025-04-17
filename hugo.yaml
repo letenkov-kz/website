@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: EzeCloud
+title: Letenkov KZ
 
 # import hextra as module
 module:
@@ -25,7 +25,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/ezecloud-ru"
+      url: "https://github.com/letenkov-kz"
       weight: 3
     - name: Search
       weight: 4
@@ -33,7 +33,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/ezecloud-ru/website"
+      url: "https://github.com/letenkov-kz/website"
       params:
         icon: github
     - name: Twitter
@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/ezecloud-ru/website/edit/main/content"
+    base: "https://github.com/letenkov-kz/website/edit/main/content"
